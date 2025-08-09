@@ -1,0 +1,1 @@
+savedcmd_/home/iamroot/pixlink-driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/iamroot/pixlink-driver/Module.symvers -T /home/iamroot/pixlink-driver/modules.order -i Module.symvers -e 
